@@ -1,0 +1,15 @@
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.mainForm.resources
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.Properties.Resources.resources
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Sanısı.exe.config
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Sanısı.exe
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Sanısı.pdb
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.ayarlar.resources
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Sanısı.exe
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Sanısı.pdb
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.lang_tr.resources
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.lang_en.resources
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.ekBilgi.resources
