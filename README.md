@@ -44,8 +44,8 @@ Sayı alanına girdiğiniz değeri Collatz sanısına göre hesaplar.
 Hesaplanan sonuç; adım sayısı x, adımda ulaşılan sayı y ekseninde olmak üzere belirtilen grafiğe yazılır.
 
 >#### log() İşlemi
-Grafikte uçurumlar olduğu zaman daha küçük sayıların görülmesi zorlaşıyor.
-Bu işlem grafikteki her sayının logaritmasını alır, böylece normal haline kıyasla iki sayı arasındaki fark daha az olur.
+>Grafikte uçurumlar olduğu zaman daha küçük sayıların görülmesi zorlaşıyor.
+>Bu işlem grafikteki her sayının logaritmasını alır, böylece normal haline kıyasla iki sayı arasındaki fark daha az olur.
 
 ### Alttaki bölge
 Bu bölge iki kısımdan oluşur:
