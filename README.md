@@ -1,5 +1,10 @@
 # COLLATZ - v1.0
 
+- [Collatz Sanısı](#collatz-san%C4%B1s%C4%B1)  
+- [Nasıl Kullanılır](#nas%C4%B1l-kullan%C4%B1l%C4%B1r)  
+- [İletişime Geçin](#i%CC%87leti%C5%9Fime-ge%C3%A7in)  
+- [Linkler](#linkler)
+
 ## Collatz Sanısı
 Collatz Sanısı, iki aritmetik işlemin tekrarlanmasıyla tüm doğal sayıların 1'e ulaşacağını söyleyen bir sanıdır.
 Bu iki işlemler şu şekildedir:
@@ -15,14 +20,14 @@ Bunu denemek için bir sayıyla başlayalım, sayımız 3 olsun.
 - 10 çift sayı **→** (10)/2 = 5
 - 5 tek sayı **→** 3(5) + 1 = 16
 - 16 çift sayı **→** (16)/2 = 8
-- 8 çift sayı **→** (8)/2   = 4
-- 4 çift sayı **→** (4)/2   = 2
-- 2 çift sayı **→** (2)/2   = 1
+- 8 çift sayı **→** (8)/2 = 4
+- 4 çift sayı **→** (4)/2 = 2
+- 2 çift sayı **→** (2)/2 = 1
 	
-	**Son sayı olarak 1'e ulaştık. Eğer 1'den sonra devam edersek farklı bir sonuç doğuyor:**
+**Son sayı olarak 1'e ulaştık. Eğer 1'den sonra devam edersek farklı bir sonuç doğuyor:**  
 - 1 tek sayı **→** 3(1) + 1 = 4
-- 4 çift sayı **→** (4)/2   = 2
-- 2 çift sayı **→** (2)/2   = 1
+- 4 çift sayı **→** (4)/2 = 2
+- 2 çift sayı **→** (2)/2 = 1
 
 1'den sonra devam etmek bizi sonu gelmeyen bir döngüye sokuyor. Döngüden kaçınmak için 1'e ulaştığımız anda devam etmeyi bitiriyoruz.
 
@@ -30,10 +35,10 @@ Bu program ile tüm işlemleri bilgisayar hesaplar ve size grafiğini oluşturur
 
 ## Nasıl kullanılır
 Programı açtığınızda karşınıza çıkan ekranda belli şeyler var:
-- Sayı alanı
-- Hesapla tuşu
-- Alttaki bölge
-- Ayarlar
+- [Sayı Alanı](#say%C4%B1-alan%C4%B1)
+- [Hesapla Tuşu](#hesapla-tu%C5%9Fu)
+- [Alttaki bölge](#alttaki-b%C3%B6lge)
+- [Ayarlar](#ayarlar)
 
 ### Sayı alanı
 1'e ulaşana kadar hesaplanacak sayıyı buraya yazılır.
@@ -49,8 +54,8 @@ Hesaplanan sonuç; adım sayısı x, adımda ulaşılan sayı y ekseninde olmak 
 
 ### Alttaki bölge
 Bu bölge iki kısımdan oluşur:
-- Aralığa bakma
-- Bilgi
+- [Aralığa bakma](#aral%C4%B1%C4%9Fa-bakma)
+- [Bilgi](#bilgi)
 
 #### Aralığa Bakma
 Çizilen grafikte, iki adım arasında kalan bölgeyi ayrı olarak gösterir.
